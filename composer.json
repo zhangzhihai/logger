@@ -1,0 +1,12 @@
+{
+    "name": "zhangzhihai/logger",
+    "description": "try make a package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
